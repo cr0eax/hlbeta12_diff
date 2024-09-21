@@ -1,5 +1,5 @@
 {
-"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\liquids.wad;\quiver\valve\xeno.wad"
+"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\liquids.wad"
 "skyname" "desert"
 "MaxRange" "4096"
 "light" "0"
@@ -523,7 +523,7 @@
 "health" "0"
 "dmg" "4000"
 "lip" "4"
-"wait" "4"
+"wait" "-1"
 "stopsnd" "6"
 "movesnd" "2"
 "speed" "200"
@@ -531,7 +531,7 @@
 "renderamt" "0"
 "rendermode" "0"
 "renderfx" "0"
-"spawnflags" "33"
+"spawnflags" "545"
 "angle" "-2"
 "classname" "func_door"
 }
@@ -2791,7 +2791,7 @@
 "classname" "monster_alien_grunt"
 }
 {
-"origin" "-2888 1576 24"
+"origin" "-2888 1592 24"
 "TriggerCondition" "0"
 "angle" "270"
 "classname" "monster_tripmine"

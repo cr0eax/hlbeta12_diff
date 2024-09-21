@@ -1,5 +1,5 @@
 {
-"wad" "\quiver\valve\decals.wad;\quiver\valve\xeno.wad"
+"wad" "\quiver\valve\decals.wad;\quiver\valve\halflife.wad;\quiver\valve\xeno.wad"
 "newunit" "1"
 "chaptertitle" "C4A1TITLE"
 "gametitle" "0"
@@ -334,7 +334,7 @@
 {
 "origin" "512 164 1848"
 "radius" "1200"
-"message" "weapons/r_exp3.wav"
+"message" "ambience/flameburst1.wav"
 "cspinup" "0"
 "lfomodvol" "0"
 "lfomodpitch" "0"
@@ -343,7 +343,7 @@
 "spindown" "0"
 "spinup" "0"
 "pitchstart" "100"
-"pitch" "100"
+"pitch" "70"
 "fadeout" "0"
 "fadein" "0"
 "volstart" "0"
@@ -452,7 +452,7 @@
 {
 "origin" "32 160 1064"
 "radius" "1200"
-"message" "weapons/r_exp3.wav"
+"message" "ambience/flameburst1.wav"
 "cspinup" "0"
 "lfomodvol" "0"
 "lfomodpitch" "0"
@@ -461,7 +461,7 @@
 "spindown" "0"
 "spinup" "0"
 "pitchstart" "100"
-"pitch" "100"
+"pitch" "70"
 "fadeout" "0"
 "fadein" "0"
 "volstart" "0"
@@ -5922,4 +5922,17 @@
 "style" "0"
 "_light" "214 186 29 100"
 "classname" "light"
+}
+{
+"origin" "938 1652 1582"
+"texture" "{BLOOD1"
+"classname" "infodecal"
+}
+{
+"origin" "960 1664 1616"
+"classname" "item_battery"
+}
+{
+"origin" "976 1632 1616"
+"classname" "item_healthkit"
 }

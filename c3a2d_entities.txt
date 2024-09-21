@@ -310,7 +310,7 @@
 "angles" "0 0 0"
 "_minlight" ".1"
 "distance" "-40"
-"spawnflags" "176"
+"spawnflags" "688"
 "angle" "135"
 "classname" "func_door_rotating"
 }
@@ -337,7 +337,7 @@
 "angles" "0 0 0"
 "_minlight" ".1"
 "distance" "40"
-"spawnflags" "176"
+"spawnflags" "688"
 "angle" "225"
 "classname" "func_door_rotating"
 }
@@ -364,7 +364,7 @@
 "angles" "0 0 0"
 "_minlight" ".1"
 "distance" "-40"
-"spawnflags" "112"
+"spawnflags" "624"
 "angle" "45"
 "classname" "func_door_rotating"
 }
@@ -390,7 +390,7 @@
 "angles" "0 0 0"
 "_minlight" ".1"
 "distance" "40"
-"spawnflags" "112"
+"spawnflags" "624"
 "angle" "135"
 "classname" "func_door_rotating"
 }
@@ -1560,9 +1560,9 @@
 "classname" "item_healthkit"
 }
 {
-"origin" "1432 -696 -256"
-"angle" "326"
-"classname" "item_healthkit"
+"origin" "1608 -744 -208"
+"delay" "0"
+"classname" "weapon_gauss"
 }
 {
 "origin" "1688 -600 -256"
@@ -1615,12 +1615,12 @@
 "classname" "ammo_9mmAR"
 }
 {
-"origin" "1584 -744 -208"
+"origin" "1268 -320 -208"
 "angle" "117"
 "classname" "ammo_357"
 }
 {
-"origin" "1620 -744 -208"
+"origin" "1304 -320 -208"
 "angle" "24"
 "classname" "ammo_357"
 }
@@ -1719,12 +1719,12 @@
 "classname" "item_healthkit"
 }
 {
-"origin" "1488 -744 -212"
+"origin" "1688 -640 -164"
 "angle" "242"
 "classname" "ammo_357"
 }
 {
-"origin" "1452 -744 -212"
+"origin" "1432 -696 -256"
 "angle" "242"
 "classname" "ammo_buckshot"
 }
@@ -2564,7 +2564,7 @@
 "classname" "multisource"
 }
 {
-"origin" "1252 -304 -208"
+"origin" "1232 -312 -208"
 "angle" "230"
 "classname" "ammo_gaussclip"
 }
@@ -3284,6 +3284,7 @@
 "m_fMoveTo" "1"
 "m_iszEntity" "thesci"
 "targetname" "retinalscan"
+"spawnflags" "96"
 "angle" "90"
 "classname" "scripted_sequence"
 }
@@ -3346,6 +3347,7 @@
 "m_iszPlay" "retina"
 "m_iszEntity" "thesci"
 "targetname" "control_retinal2"
+"spawnflags" "96"
 "angle" "90"
 "classname" "scripted_sequence"
 }
@@ -4892,4 +4894,21 @@
 "model" "*82"
 "master" "save_ms"
 "classname" "trigger_autosave"
+}
+{
+"origin" "1432 -608 -256"
+"delay" "0"
+"angle" "7"
+"classname" "weapon_egon"
+}
+{
+"origin" "1000 -368 -208"
+"delay" "0"
+"angle" "90"
+"classname" "weapon_rpg"
+}
+{
+"origin" "1480 -744 -208"
+"delay" "0"
+"classname" "weapon_hornetgun"
 }

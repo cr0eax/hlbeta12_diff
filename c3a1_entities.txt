@@ -36,11 +36,6 @@
 "classname" "info_player_start"
 }
 {
-"origin" "576 -448 656"
-"angle" "45"
-"classname" "info_player_deathmatch"
-}
-{
 "origin" "828 -188 712"
 "roomtype" "24"
 "radius" "128"

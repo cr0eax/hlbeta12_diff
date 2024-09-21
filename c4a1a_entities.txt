@@ -1,7 +1,7 @@
 {
 "wad" "\quiver\valve\decals.wad;\quiver\valve\xeno.wad"
 "newunit" "1"
-"chaptertitle" "c4a1atitle"
+"chaptertitle" "C4A1ATITLE"
 "message" "Interloper"
 "WaveHeight" "0"
 "gametitle" "0"
@@ -5684,6 +5684,8 @@
 }
 {
 "origin" "-120 952 -248"
+"uranium" "30"
+"357" "24"
 "ARgrenades" "5"
 "9mm" "5"
 "classname" "weaponbox"

@@ -1,6 +1,9 @@
 {
 "wad" "\quiver\valve\decals.wad;\quiver\valve\xeno.wad"
-"message" "Nihilanth"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"message" "Interloper"
 "sounds" "1"
 "skyname" "xen8"
 "light" "0"

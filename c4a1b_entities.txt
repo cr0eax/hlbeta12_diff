@@ -3026,18 +3026,18 @@
 "classname" "light"
 }
 {
-"origin" "-2272 -352 -224"
+"origin" "-2280 -376 -224"
 "delay" "0"
 "classname" "weapon_handgrenade"
 }
 {
-"origin" "-2296 -384 -224"
+"origin" "-2304 -408 -224"
 "delay" "0"
 "angle" "215"
 "classname" "weapon_handgrenade"
 }
 {
-"origin" "-2240 -400 -224"
+"origin" "-2248 -424 -224"
 "delay" "0"
 "angle" "286"
 "classname" "weapon_handgrenade"
@@ -3846,39 +3846,8 @@
 "classname" "func_wall"
 }
 {
-"origin" "-608 832 112"
-"delay" "0"
-"classname" "weapon_tripmine"
-}
-{
-"origin" "-624 864 112"
-"delay" "0"
-"classname" "weapon_tripmine"
-}
-{
-"origin" "-544 880 112"
-"delay" "0"
-"classname" "weapon_tripmine"
-}
-{
-"origin" "-560 832 112"
-"delay" "0"
-"classname" "weapon_tripmine"
-}
-{
-"origin" "-592 880 112"
-"delay" "0"
-"classname" "weapon_tripmine"
-}
-{
-"origin" "-976 1360 112"
-"delay" "0"
-"classname" "weapon_satchel"
-}
-{
-"origin" "-944 1360 128"
-"delay" "0"
-"classname" "weapon_satchel"
+"origin" "-984 1344 112"
+"classname" "item_battery"
 }
 {
 "origin" "2160 -1280 64"
@@ -4339,4 +4308,94 @@
 "origin" "1488 -1953 64"
 "texture" "{BIGBLOOD1"
 "classname" "infodecal"
+}
+{
+"origin" "-740 1416 128"
+"pose" "2"
+"angle" "225"
+"classname" "monster_hevsuit_dead"
+}
+{
+"origin" "-739 1415 128"
+"texture" "{BIGBLOOD2"
+"classname" "infodecal"
+}
+{
+"origin" "-668 1444 129"
+"uranium" "15"
+"357" "12"
+"Trip Mine" "2"
+"classname" "weaponbox"
+}
+{
+"origin" "-632 880 112"
+"classname" "item_healthkit"
+}
+{
+"origin" "-2240 -392 -224"
+"classname" "item_battery"
+}
+{
+"origin" "-2382 -1 32"
+"texture" "{BIGBLOOD2"
+"classname" "infodecal"
+}
+{
+"origin" "-2360 24 32"
+"classname" "item_battery"
+}
+{
+"origin" "-1656 -88 -224"
+"classname" "item_healthkit"
+}
+{
+"origin" "-1658 -68 -224"
+"texture" "{BLOOD1"
+"classname" "infodecal"
+}
+{
+"origin" "2168 -2096 144"
+"activity" "45"
+"hinttype" "0"
+"classname" "info_node"
+}
+{
+"origin" "2016 -2104 144"
+"activity" "45"
+"hinttype" "0"
+"classname" "info_node"
+}
+{
+"origin" "2344 -1800 144"
+"activity" "45"
+"hinttype" "0"
+"classname" "info_node"
+}
+{
+"origin" "2225 -1800 144"
+"activity" "45"
+"hinttype" "0"
+"classname" "info_node"
+}
+{
+"origin" "2129 -1800 144"
+"activity" "45"
+"hinttype" "0"
+"classname" "info_node"
+}
+{
+"model" "*101"
+"classname" "func_monsterclip"
+}
+{
+"origin" "1248 -1584 64"
+"classname" "item_battery"
+}
+{
+"origin" "1248 -1584 64"
+"classname" "item_battery"
+}
+{
+"model" "*102"
+"classname" "func_monsterclip"
 }

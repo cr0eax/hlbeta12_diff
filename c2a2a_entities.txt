@@ -1673,7 +1673,7 @@
 }
 {
 "origin" "-1787 397 124"
-"body" "-1"
+"body" "3"
 "pose" "1"
 "angle" "31"
 "classname" "monster_hgrunt_dead"

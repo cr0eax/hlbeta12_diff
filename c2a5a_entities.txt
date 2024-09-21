@@ -825,7 +825,7 @@
 "classname" "ambient_generic"
 }
 {
-"origin" "-3728 0 832"
+"origin" "-3584 0 832"
 "target" "plane3"
 "message" "plane_disappear"
 "speed" "200"
@@ -904,6 +904,7 @@
 }
 {
 "origin" "-3920 0 832"
+"netname" "plane_disappear"
 "message" "plane_disappear"
 "speed" "2600"
 "targetname" "plane3"

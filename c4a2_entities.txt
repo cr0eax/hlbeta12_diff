@@ -186,10 +186,6 @@
 "classname" "info_node"
 }
 {
-"origin" "2592 224 8"
-"classname" "item_longjump"
-}
-{
 "origin" "2236 -956 0"
 "rendermode" "0"
 "renderfx" "0"
@@ -994,12 +990,12 @@
 "classname" "item_battery"
 }
 {
-"origin" "2688 224 32"
+"origin" "2656 240 32"
 "angle" "249"
 "classname" "item_battery"
 }
 {
-"origin" "2720 256 32"
+"origin" "2688 256 32"
 "angle" "157"
 "classname" "item_battery"
 }
@@ -1071,7 +1067,7 @@
 "classname" "infodecal"
 }
 {
-"origin" "2592 288 32"
+"origin" "2592 240 32"
 "Trip Mine" "2"
 "Satchel Charge" "3"
 "uranium" "37"

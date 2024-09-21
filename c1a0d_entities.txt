@@ -975,7 +975,7 @@
 "classname" "multisource"
 }
 {
-"origin" "-2149 1217 -194"
+"origin" "-2149 1217 -203"
 "cspinup" "0"
 "lfomodvol" "0"
 "lfomodpitch" "0"
@@ -996,13 +996,13 @@
 "classname" "ambient_generic"
 }
 {
-"origin" "-2134 1233 -194"
+"origin" "-2134 1233 -203"
 "target" "beep4"
 "targetname" "beep4ms"
 "classname" "multisource"
 }
 {
-"origin" "-2149 1217 -191"
+"origin" "-2149 1217 -205"
 "cspinup" "0"
 "lfomodvol" "0"
 "lfomodpitch" "0"
@@ -1023,7 +1023,7 @@
 "classname" "ambient_generic"
 }
 {
-"origin" "-2134 1233 -191"
+"origin" "-2134 1233 -205"
 "target" "microwavepopmm1"
 "targetname" "beep5ms"
 "classname" "multisource"
@@ -1106,26 +1106,6 @@
 "rendermode" "2"
 "rendercolor" "0 0 0"
 "renderamt" "0"
-"master" "beep4ms"
-"unlocked_sentence" "0"
-"locked_sentence" "0"
-"unlocked_sound" "0"
-"locked_sound" "0"
-"delay" "0"
-"wait" "-1"
-"sounds" "0"
-"lip" "-40"
-"health" "0"
-"target" "beep5ms"
-"speed" "1000"
-"angle" "45"
-"classname" "func_button"
-}
-{
-"model" "*27"
-"rendermode" "2"
-"rendercolor" "0 0 0"
-"renderamt" "0"
 "master" "beep3ms"
 "unlocked_sentence" "0"
 "locked_sentence" "0"
@@ -1137,6 +1117,26 @@
 "lip" "-40"
 "health" "0"
 "target" "beep4ms"
+"speed" "1000"
+"angle" "45"
+"classname" "func_button"
+}
+{
+"model" "*27"
+"rendermode" "2"
+"rendercolor" "0 0 0"
+"renderamt" "0"
+"master" "beep4ms"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "-1"
+"sounds" "0"
+"lip" "-40"
+"health" "0"
+"target" "beep5ms"
 "speed" "1000"
 "angle" "45"
 "classname" "func_button"

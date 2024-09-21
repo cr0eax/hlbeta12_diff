@@ -1,5 +1,5 @@
 {
-"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\xeno.wad"
+"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\xeno.wad;\quiver\valve\liquids.wad"
 "MaxRange" "8000"
 "message" "'We've Got Hostiles'"
 "light" "0"

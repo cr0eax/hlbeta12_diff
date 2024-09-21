@@ -1,5 +1,5 @@
 {
-"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\liquids.wad;\quiver\valve\xeno.wad"
+"wad" "\quiver\valve\halflife.wad;\quiver\valve\decals.wad;\quiver\valve\liquids.wad"
 "gametitle" "0"
 "light" "0"
 "sounds" "0"
@@ -106,6 +106,8 @@
 }
 {
 "origin" "368 512 -32"
+"weapons" "3"
+"TriggerCondition" "0"
 "netname" "bunker_grunts"
 "angle" "201"
 "classname" "monster_human_grunt"
@@ -124,6 +126,9 @@
 }
 {
 "origin" "-296 -216 8"
+"netname" "bunker_grunts"
+"weapons" "3"
+"TriggerCondition" "0"
 "spawnflags" "32"
 "angle" "44"
 "classname" "monster_human_grunt"
@@ -659,7 +664,8 @@
 }
 {
 "origin" "-320 -432 0"
-"netname" "squad01"
+"weapons" "3"
+"TriggerCondition" "0"
 "angle" "44"
 "classname" "monster_human_grunt"
 }
@@ -1693,6 +1699,7 @@
 {
 "model" "*65"
 "origin" "-1100 2112 0"
+"bullet_damage" "0"
 "barrelz" "0"
 "barrely" "-48"
 "targetname" "brad_turret"

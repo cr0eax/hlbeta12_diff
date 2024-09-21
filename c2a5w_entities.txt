@@ -848,14 +848,14 @@
 "classname" "info_node"
 }
 {
-"origin" "1248 -608 898"
+"origin" "1296 -672 898"
 "targetname" "seq1"
 "m_fMoveTo" "2"
 "m_flRepeat" "0"
 "m_flRadius" "512"
 "m_iszEntity" "squad1_leader"
 "delay" "0"
-"spawnflags" "64"
+"spawnflags" "66"
 "angle" "132"
 "classname" "scripted_sequence"
 }
